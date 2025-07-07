@@ -48,10 +48,3 @@ This project is a visual and interactive way to understand:
 * Space environment simulation using 3D graphics
 
 ---
-
-- Replace `your-username` in links with your GitHub username.
-- Add screenshots like `screenshot1.png`, `screenshot2.png`, etc. in your `images/` folder and link accordingly.
-- If you want a **downloadable `.md` file**, I can generate and upload it as a file for you too.
-
-Let me know!
-```
